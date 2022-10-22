@@ -1,0 +1,5 @@
+SQL - Structured Query Language
+Interroger une base de données relationnelle
+Bdd relationnelle = info dans tableaux à 2 dimensions appelées relations ou tables
+
+PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, Oracle...
